@@ -1,9 +1,12 @@
-﻿# Fine-Tuning Large Language Models - Assignment 3
+# Fine-Tuning Large Language Models - Assignment 3
 
 [![Medium Blog](https://img.shields.io/badge/Medium-Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@saif55/fine-tuning-large-language-models-efficiently-with-lora-peft-a-hands-on-journey-27b7687d25ee)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saif55045/fine_tunning_models.git)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahtesham-Shah999/-LLM-Fine-Tuning-Pipelines.git)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](YOUR_STREAMLIT_APP_LINK_HERE)
 
+## 👥 Authors & Collaborators
+- **Ahtesham Shah**
+- **Saif** (Partner)
 This project implements three fine-tuning tasks using state-of-the-art transformer models with Parameter-Efficient Fine-Tuning (PEFT) techniques, specifically LoRA (Low-Rank Adaptation).
 
 ## Table of Contents
